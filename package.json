@@ -1,11 +1,24 @@
 {
   "name": "librarytest",
   "version": "1.0.0",
-  "description": "",
+  "description": "checking if kyle can write a library",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "karolis",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyledvs/librarytest.git"
+  },
+  "keywords": [
+    "try",
+    "new",
+    "things"
+  ],
+  "bugs": {
+    "url": "https://github.com/kyledvs/librarytest/issues"
+  },
+  "homepage": "https://github.com/kyledvs/librarytest#readme"
 }
